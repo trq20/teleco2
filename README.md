@@ -4,20 +4,20 @@
 
 Hacer tres simulaciones distintas con los dos circuitos que van a encontrar en el repositorio. Y armar una tabla como la siguiente para cada circuito:
 
-| N | $E_m$ | $E_c$ | $m$ | $f_m$ | $f_c$ | $\Delta f$ |
-| - | ----- | ----- | --- | ----- | ----- | ---------- |
-| 1 |       |       |     |       |       |            |
-| 2 |       |       |     |       |       |            |
-| 3 |       |       |     |       |       |            |
+| N | Em | Ec | m | fm | fc | Δf |
+| - | -- | -- | - | -- | -- | -- |
+| 1 |    |    |   |    |    |    |
+| 2 |    |    |   |    |    |    |
+| 3 |    |    |   |    |    |    |
 
 Donde:
 - N: Número de medición.
-- $E_m$: Amplitud de la moduladora.
-- $E_c$: Amplitud de la portadora.
-- $m$: Índice de modulación **medido** (aproximado).
-- $f_,$: Frecuencia de moduladora.
-- $f_c$: Frecuencia de portadora.
-- $\Delta f$: Ancho de banda **medido**. 
+- Em: Amplitud de la moduladora.
+- Ec: Amplitud de la portadora.
+- m: Índice de modulación **medido** (aproximado).
+- fm: Frecuencia de moduladora.
+- fc: Frecuencia de portadora.
+- Δf: Ancho de banda **medido**. 
 
 Luego armar un `README.md` con este formato:
 
