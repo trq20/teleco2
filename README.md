@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Especificaciones
 
 Hacer tres simulaciones distintas con los dos circuitos que van a encontrar en el repositorio. Y armar una tabla como la siguiente para cada circuito:
