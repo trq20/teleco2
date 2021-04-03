@@ -2,11 +2,14 @@
 
 Hacer tres simulaciones distintas con los dos circuitos que van a encontrar en el repositorio. Y armar una tabla como la siguiente para cada circuito:
 
+<div align="center">
+  
 | N | Em | Ec | m | fm | fc | Δf |
 | - | -- | -- | - | -- | -- | -- |
 | 1 |    |    |   |    |    |    |
 | 2 |    |    |   |    |    |    |
 | 3 |    |    |   |    |    |    |
+</div>
 
 Donde:
 - N: Número de medición.
@@ -65,7 +68,7 @@ Materia: Telecomunicaciones II
 - Cuando cambien la frecuencia de portadora del circuito modulador con diodo, tengan en cuenta que van a tener que cambiar los componentes del circuito tanque RLC para que sintonice esa frecuencia. Pueden fijar el valor de L o C y despejar el otro de esta fórmula:
 
 <P align="center">
-  <img width="200" height="200" src="https://render.githubusercontent.com/render/math?math=f_0 = \frac{1}{2 \pi \sqrt{LC}}">
+  <img width="200" height="150" src="https://render.githubusercontent.com/render/math?math=f_0 = \frac{1}{2 \pi \sqrt{LC}}">
 </p>
 
 ## Como entregar
