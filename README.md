@@ -62,6 +62,9 @@ Materia: Telecomunicaciones II
 - En el modulador con transistor, las tensiones de las señales no deben superar los pocos cientos de mili Volts.
 - Usen frecuencias de moduladora entre `1KHz-20KHz`. Para la portadora, usen frecuencias entre los `100KHz-1500KHz`.
 - El gráfico de Fourier ya está configurado puede tomar un tiempo en dar sus resultados. Se inicia la simulación de Fourier seleccionando la opción haciendo click derecho en el gráfico.
+- Cuando cambien la frecuencia de portadora del circuito modulador con diodo, tengan en cuenta que van a tener que cambiar los componentes del circuito tanque RLC para que sintonice esa frecuencia. Pueden fijar el valor de L o C y despejar el otro de esta fórmula:
+
+<img src="https://render.githubusercontent.com/render/math?math=f_0 = \frac{1}{2 \pi \sqrt{LC}}">
 
 ## Como entregar
 
