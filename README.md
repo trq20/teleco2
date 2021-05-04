@@ -1,10 +1,15 @@
 # Especificaciones
 ---
 Escribir un programa que:
+
     - Permita a el usuario elegir una frecuencia a sintonizar.
+
     - Grafique en un espectro de frecuencias la `frecuencia del oscilador local`, `frecuencia imagen` y la `frecuencia sintonizada`.
+    
     - El programa en ningún momento debe preguntar o tener establecido que el oscilador lateral superior o inferior, debe elegirlo de manera aleatoria.
+    
     - Debe aparecer una etiqueta para cada frecuencia que se grafique. Cada una debe tener un color distinto.
+    
     - El título del gráfico debe variar de acuerdo a el tipo de oscilador.
 
 El resultado debe ser algo parecido a esto:
