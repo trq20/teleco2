@@ -1,5 +1,5 @@
 # Especificaciones
----
+
 Escribir un programa que:
 
 - Permita a el usuario elegir una frecuencia a sintonizar.
@@ -38,14 +38,14 @@ Materia: Telecomunicaciones II
 ```
 
 ## Consideraciones
----
+
 - Pueden usar la función `choice` del módulo `random` para que elija aleatoriamente entre una inyección u otra. Pueden ver información en esta [página](https://www.w3schools.com/python/ref_random_choice.asp).
 - Las amplitudes de las frecuencias pueden ser de cualquier valor, pero todas deben tener el mismo.
 - Para dibujar lineas verticales, pueden usar `plt.vlines()`. Pueden ver como se usa en la documentación de [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.vlines.html).
 - Los títulos y los ejes los pueden cambiar con `plt.title()`, `plt.xlabel()` y `plt.ylabel()`.
 
 ## Como entregar
----
+
 
 Pongan el `README.md`, `mezclador.py` y las imagenes que tomaron dentro de una nueva carpeta y corran en una terminal:
 
