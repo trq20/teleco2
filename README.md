@@ -57,4 +57,4 @@ git checkout -b teleco2/2021/superheterodino/mezclador
 git push https://github.com/trq20/USERNAME.git teleco2/2021/superheterodino/mezclador
 ```
 
-Donde `USERNAME` es su nombre de usuario. Pueden verificar que se haya subido visitando `https://github.com/trq20/USERNAME/treee/teleco2/2021/superheterodino/mezclador`.
+Donde `USERNAME` es su nombre de usuario. Pueden verificar que se haya subido visitando `https://github.com/trq20/USERNAME/tree/teleco2/2021/superheterodino/mezclador`.
