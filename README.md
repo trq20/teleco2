@@ -8,6 +8,8 @@ Hacer un programa que grafique el rendimiento de las siguientes modulaciones AM 
 - Banda lateral única, portadora suprimida (`SSBSC`).
 - Banda lateral independiente (`ISB`).
 
+El gráfico debe tener un `label` para cada curva de rendimiento indicando el nombre de la modulación como se mencionan arriba (`DSBFC`, `SSBFC`, etc).
+
 Luego, armar un `README.md` con lo siguiente:
 
 ```markdown
