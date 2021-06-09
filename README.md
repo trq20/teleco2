@@ -34,5 +34,5 @@ git checkout -b teleco2/2021/blu/rendimiento
 git push https://github.com/trq20/USERNAME.git teleco2/2021/blu/rendimiento
 ```
 
-Donde `USERNAME` es su nombre de usuario de GitHub. Pueden verificar la entrega en `https://github.com/trq20/USERNAME/tree/teleco2/2021/superheterodino/mezclador`.
+Donde `USERNAME` es su nombre de usuario de GitHub. Pueden verificar la entrega en `https://github.com/trq20/USERNAME/tree/teleco2/2021/blu/rendimiento`.
 
