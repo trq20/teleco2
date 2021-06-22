@@ -9,6 +9,7 @@ Van a encontrar dos circuitos moduladores de `DSBSC` ya funcionando a unas deter
 | Tipo de filtro | Frecuencia de corte 1 | Frecuencia de corte 2 | Ancho de banda |
 | -------------- | --------------------- | --------------------- | -------------- |
 |                |                       |                       |                |
+|                |                       |                       |                |
 
 - Justificar la decisión.
 
